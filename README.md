@@ -83,7 +83,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalzkie&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false" style="max-width: 1000px; height: 300px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalzkie&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false" style="max-width: 1000px; height: 250px;"/>
 </p>
 
 ---
