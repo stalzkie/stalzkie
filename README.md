@@ -1,11 +1,14 @@
 <h1 align="center">Hi, I'm Stal</h1>
-<h2 align="center"> B2B & SAAS Content Writer | Aspiring Business Intelligence Professional | Web Developer </h2>
+<!-- -->
+<h2 align="center">B2B & SAAS Content Writer | Aspiring Business Intelligence Professional | Web Developer</h2>
+
 <p align="center">
   <a href="https:www.stalfolio.com" target="_blank">🌐 Portfolio</a> • 
   <a href="mailto:dstalingrad@gmail.com">✉️ Contact</a> • 
   <a href="https://www.linkedin.com/in/stalingrad-dollosa-628b89267/">🔗 LinkedIn</a>
 </p>
 
+---
 ### 🔧 Tech Stack & Tools
 
 <p>
@@ -56,6 +59,8 @@
   </a>
 </p>
 
+---
+
 ### 💡 Featured Project: Curriculum Alignment AI
 > A full-stack machine learning system that bridges the gap between university syllabi and real-world job market demands. Trained using Supabase-stored job data and LLMs like Gemini.
 
@@ -65,6 +70,8 @@
 - 🔌 Technologies: Supabase, Python, SerpAPI, Gemini API, ReportLab
 
 ⤵️ [Project Source (Private)](https://github.com/stalzkie/curricalign-thesis)
+
+---
 
 ### 📊 GitHub Stats
 
