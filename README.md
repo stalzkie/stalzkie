@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Stal</h1>
 <!-- -->
-<h2 align="center">B2B & SAAS Content Writer | Aspiring Business Intelligence Professional | Web Developer</h2>
+<p align="center">B2B & SAAS Content Writer | Aspiring Business Intelligence Professional | Web Developer <p>
 
 <p align="center">
   <a href="https://www.stalfolio.com">🌐 Portfolio</a>
@@ -9,7 +9,7 @@
 </p>
 
 ---
-### 🔧 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p>
   <!-- C++ -->
@@ -60,7 +60,7 @@
 </p>
 
 
-### ⭐⭐⭐ Certificates
+### Certificates
 
 <p>
   <!-- Google Business Intelligence -->
@@ -79,22 +79,25 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stalzkie&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalzkie&layout=donut&theme=tokyonight&langs_count=10&hide_progress=false" width="100%"/>
+</p>
+
 ---
 
-### 💡 Featured Project: Curriculum Alignment AI
+### Featured Project: Curriculum Alignment AI
 > A full-stack machine learning system that bridges the gap between university syllabi and real-world job market demands. Trained using Supabase-stored job data and LLMs like Gemini.
 
-- 🔍 Skill extractor powered by BERT and Gemini
-- 📈 Success score regression via sklearn
-- 📄 PDF report generation with charts & predictions
-- 🔌 Technologies: Supabase, Python, SerpAPI, Gemini API, ReportLab
+- Skill extractor powered by BERT and Gemini
+- Success score regression via sklearn
+- PDF report generation with charts & predictions
+- Technologies: Supabase, Python, SerpAPI, Gemini API, ReportLab
 
-⤵️ [Project Source (Private)](https://github.com/stalzkie/curricalign)
+[Project Source (Private)](https://github.com/stalzkie/curricalign)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=stalzkie&show_icons=true&theme=tokyonight&hide_border=true" width="420" height="180" style="border: 2px solid white; border-radius: 10px;" />
@@ -106,10 +109,10 @@
   alt="GitHub Activity Graph"
 />
 
-### 🎓 Currently Learning
-- 🧠 TensorFlow Lite for edge inference
-- 🗺️ Google Trends API + job classification
-- 📊 ML explainability (SHAP, LIME)
+### Currently Learning
+- TensorFlow Lite for edge inference
+- Google Trends API + job classification
+- ML explainability (SHAP, LIME)
 
 ---
 
