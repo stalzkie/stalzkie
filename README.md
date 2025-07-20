@@ -9,6 +9,7 @@
 </p>
 
 ---
+
 ### Tech Stack & Tools
 
 <p>
@@ -79,8 +80,10 @@
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalzkie&layout=default&theme=tokyonight&langs_count=10&hide_progress=false" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalzkie&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false" style="max-width: 1000px; height: 300px;"/>
 </p>
 
 ---
@@ -113,8 +116,6 @@
 - TensorFlow Lite for edge inference
 - Google Trends API + job classification
 - ML explainability (SHAP, LIME)
-
----
 
 ### 🤝 Let’s Collaborate
 Open to AI/Business Data internships, Startup proposals, or freelance collaboration. Let’s solve real-world problems with code.
