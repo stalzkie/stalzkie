@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/stalingrad-dollosa-628b89267/">🔗 LinkedIn</a>
 </p>
 
----
-
 ### 🔧 Tech Stack & Tools
 
 <p>
@@ -39,8 +37,6 @@
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
----
-
 ### ⭐⭐⭐ Certificates
 
 <p>
@@ -60,8 +56,6 @@
   </a>
 </p>
 
----
-
 ### 💡 Featured Project: Curriculum Alignment AI
 > A full-stack machine learning system that bridges the gap between university syllabi and real-world job market demands. Trained using Supabase-stored job data and LLMs like Gemini.
 
@@ -72,30 +66,8 @@
 
 ⤵️ [Project Source (Private)](https://github.com/stalzkie/curricalign-thesis)
 
----
-
-### 🚀 Live Project Cards
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/stalzkie/stalfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=stalzkie&repo=stalfolio&theme=radical&border_color=ffffff" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/stalzkie/wheresmydorm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=stalzkie&repo=wheresmydorm&theme=radical&border_color=ffffff" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
-<!-- Stats & Streak Side-by-Side with Padding & Equal Width -->
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=stalzkie&show_icons=true&theme=tokyonight&hide_border=true" width="420" height="180" style="border: 2px solid white; border-radius: 10px;" />
   <img src="https://streak-stats.demolab.com/?user=stalzkie&theme=tokyonight&hide_border=true" width="420" height="180" style="border: 2px solid white; border-radius: 10px;" />
@@ -105,8 +77,6 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=stalzkie&theme=react-dark&hide_border=true" 
   alt="GitHub Activity Graph"
 />
-
----
 
 ### 🎓 Currently Learning
 - 🧠 TensorFlow Lite for edge inference
