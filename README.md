@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Stalzkie 👋</h1>
+<h1 align="center">Hi, I'm Stal 👋</h1>
 <p align="center">💻 Building AI x Web x Games — One Stack At A Time</p>
 
 ---
