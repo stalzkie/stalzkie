@@ -79,6 +79,7 @@
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stalzkie&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 💡 Featured Project: Curriculum Alignment AI
