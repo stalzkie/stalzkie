@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Stal — B2B & SAAS Content Writer | Aspiring Business Intelligence Professional | Web Developer ⚙️📚</h1>
+<h1 align="center">Hi, I'm Stal</h1>
+<h2 align="center"> B2B & SAAS Content Writer | Aspiring Business Intelligence Professional | Web Developer </h2>
 <p align="center">
   <a href="https:www.stalfolio.com" target="_blank">🌐 Portfolio</a> • 
   <a href="mailto:dstalingrad@gmail.com">✉️ Contact</a> • 
@@ -43,19 +44,19 @@
 ### ⭐⭐⭐ Certificates
 
 <p>
-  <!-- Google Business Intelligence (Credly badge) -->
+  <!-- Google Business Intelligence -->
   <a href="https://www.credly.com/badges/5b0d9c7e-eedd-4c6f-93c8-8946c2b94d7b/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/f3c7c74e-e3d6-4cd7-86d6-6b6f386bee8e/image.png" alt="Google Business Intelligence Certificate" style="height: 80px; margin-right: 8px;" />
+    <img src="https://img.shields.io/badge/Coursera-Google_Business_Intelligence-2A73CC?style=for-the-badge&logo=coursera&logoColor=white"/>
   </a>
 
-  <!-- HubSpot SEO Certificate (official HubSpot logo) -->
+  <!-- HubSpot SEO -->
   <a href="https://app-na2.hubspot.com/academy/achievements/ckmfh12z/en/1/stalingrad-dollosa/seo" target="_blank">
-    <img src="https://academy.hubspot.com/hubfs/academy-certifications/seo-optimization-certification.svg" alt="HubSpot SEO Certification" style="height: 80px; margin-right: 8px;" />
+    <img src="https://img.shields.io/badge/HubSpot-SEO_Certification-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
   </a>
 
-  <!-- Fundamentals of Business Analysis (Credly badge) -->
+  <!-- Fundamentals of Business Analysis -->
   <a href="https://www.credly.com/badges/5e12e645-8287-4274-81e2-04abb6a96004/linked_in_profile" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/9781a2d0-9658-4145-8787-4c73f36ddcb3/image.png" alt="Fundamentals of Business Analysis Certificate" style="height: 80px;" />
+    <img src="https://img.shields.io/badge/Coursera-Business_Analysis_Fundamentals-2A73CC?style=for-the-badge&logo=coursera&logoColor=white"/>
   </a>
 </p>
 
@@ -75,12 +76,13 @@
 
 ### 🚀 Live Project Cards
 
-<p align="center">
-  <a href="https://github.com/stalzkie/stalfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stalzkie&repo=stalfolio&theme=radical" />
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <a href="https://github.com/stalzkie/stalfolio" style="display: inline-block; border: 2px solid white; border-radius: 10px; overflow: hidden; width: 400px; height: 180px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stalzkie&repo=stalfolio&theme=radical" width="100%" height="100%" style="object-fit: cover;" />
   </a>
-  <a href="https://github.com/stalzkie/wheresmydorm">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stalzkie&repo=wheresmydorm&theme=radical" />
+
+  <a href="https://github.com/stalzkie/wheresmydorm" style="display: inline-block; border: 2px solid white; border-radius: 10px; overflow: hidden; width: 400px; height: 180px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stalzkie&repo=wheresmydorm&theme=radical" width="100%" height="100%" style="object-fit: cover;" />
   </a>
 </p>
 
@@ -88,13 +90,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stalzkie&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=stalzkie&theme=tokyonight&hide_border=true" width="48%"/>
+<!-- Stats & Streak Side-by-Side with Padding & Equal Width -->
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=stalzkie&show_icons=true&theme=tokyonight&hide_border=true" width="420" height="180" style="border: 2px solid white; border-radius: 10px;" />
+  <img src="https://streak-stats.demolab.com/?user=stalzkie&theme=tokyonight&hide_border=true" width="420" height="180" style="border: 2px solid white; border-radius: 10px;" />
 </p>
 
+<!-- Activity Graph Styled Like the Gradient Line Chart -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stalzkie&theme=rogue&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stalzkie&bg_color=0d1117&color=ffffff&line=FDD835,4FC3F7,FF4081,00E676&point=ffffff&hide_border=true" style="border: 2px solid white; border-radius: 10px;" />
 </p>
 
 ---
