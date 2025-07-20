@@ -33,12 +33,22 @@
   <!-- Flutter -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-  <!-- SERPAPI (no official badge, Google-style green) -->
+  <!-- SERPAPI (Google green) -->
   <img src="https://img.shields.io/badge/SERPAPI-34A853?style=for-the-badge&logo=google&logoColor=white"/>
 
   <!-- OpenAI API -->
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+  <!-- Tailwind CSS -->
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
+
 
 ### ⭐⭐⭐ Certificates
 
