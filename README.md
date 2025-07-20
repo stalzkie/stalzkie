@@ -76,15 +76,19 @@
 
 ### 🚀 Live Project Cards
 
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <a href="https://github.com/stalzkie/stalfolio" style="display: inline-block; border: 2px solid white; border-radius: 10px; overflow: hidden; width: 400px; height: 180px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stalzkie&repo=stalfolio&theme=radical" width="100%" height="100%" style="object-fit: cover;" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; padding: 10px;">
+  <a href="https://github.com/stalzkie/stalfolio" style="display: inline-block; width: 400px; height: 220px; border: 2px solid white; border-radius: 10px; padding: 16px; background-color: #0d1117; color: white; text-decoration: none;">
+    <h4 style="color:#f92672; margin: 0 0 8px 0;">📒 stalfolio</h4>
+    <p style="color:#00e0ff;">Personal Portfolio</p>
+    <p style="margin-top: 16px;">🟣 PHP ⭐ 1</p>
   </a>
 
-  <a href="https://github.com/stalzkie/wheresmydorm" style="display: inline-block; border: 2px solid white; border-radius: 10px; overflow: hidden; width: 400px; height: 180px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stalzkie&repo=wheresmydorm&theme=radical" width="100%" height="100%" style="object-fit: cover;" />
+  <a href="https://github.com/stalzkie/wheresmydorm" style="display: inline-block; width: 400px; height: 220px; border: 2px solid white; border-radius: 10px; padding: 16px; background-color: #0d1117; color: white; text-decoration: none;">
+    <h4 style="color:#f92672; margin: 0 0 8px 0;">📒 wheresmydorm</h4>
+    <p style="color:#00e0ff;">WheresMyDorm is an Airbnb-style web application built with Laravel (API), React (Frontend), and Supabase (Database)...</p>
+    <p style="margin-top: 8px;">🔵 TypeScript</p>
   </a>
-</p>
+</div>
 
 ---
 
@@ -96,9 +100,13 @@
   <img src="https://streak-stats.demolab.com/?user=stalzkie&theme=tokyonight&hide_border=true" width="420" height="180" style="border: 2px solid white; border-radius: 10px;" />
 </p>
 
-<!-- Activity Graph Styled Like the Gradient Line Chart -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stalzkie&bg_color=0d1117&color=ffffff&line=FDD835,4FC3F7,FF4081,00E676&point=ffffff&hide_border=true" style="border: 2px solid white; border-radius: 10px;" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=stalzkie&bg_color=0d1117&color=ffffff&line=FDD835,4FC3F7,FF4081,00E676&point=ffffff&hide_border=true" 
+    alt="Stalingrad's GitHub Activity Graph"
+    width="95%"
+    style="border: 2px solid white; border-radius: 10px;" 
+  />
 </p>
 
 ---
