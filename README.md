@@ -3,7 +3,7 @@
 <h2 align="center">B2B & SAAS Content Writer | Aspiring Business Intelligence Professional | Web Developer</h2>
 
 <p align="center">
-  <a href="https:www.stalfolio.com" target="_blank">🌐 Portfolio</a> • 
+  <a href="https:www.stalfolio.com">🌐 Portfolio</a> • 
   <a href="mailto:dstalingrad@gmail.com">✉️ Contact</a> • 
   <a href="https://www.linkedin.com/in/stalingrad-dollosa-628b89267/">🔗 LinkedIn</a>
 </p>
@@ -89,7 +89,7 @@
 - 📄 PDF report generation with charts & predictions
 - 🔌 Technologies: Supabase, Python, SerpAPI, Gemini API, ReportLab
 
-⤵️ [Project Source (Private)](https://github.com/stalzkie/curricalign-thesis)
+⤵️ [Project Source (Private)](https://github.com/stalzkie/curricalign)
 
 ---
 
