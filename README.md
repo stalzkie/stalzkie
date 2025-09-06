@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Stal</h1>
 <!-- -->
-<p align="center">B2B & SAAS Content Writer | Aspiring Business Intelligence Professional | Web Developer <p>
+<p align="center">Business Intelligence | Data Engineering | Machine Learning<p>
 
 <p align="center">
   <a href="https://www.stalfolio.com">🌐 Portfolio</a> •
