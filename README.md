@@ -79,26 +79,6 @@
     <img src="https://img.shields.io/badge/Coursera-Business_Analysis_Fundamentals-2A73CC?style=for-the-badge&logo=coursera&logoColor=white"/>
   </a>
 </p>
-
----
-
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=stalzkie&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-        width="420"
-      />
-    </td>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com/?user=stalzkie&theme=tokyonight&hide_border=true&cache_seconds=1800"
-        width="420"
-      />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### Featured Project: Curriculum Alignment AI
@@ -114,24 +94,6 @@
 ---
 
 ### GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=stalzkie&show_icons=true&theme=tokyonight&hide_border=true"
-        width="420"
-      />
-    </td>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com/?user=stalzkie&theme=tokyonight&hide_border=true"
-        width="420"
-      />
-    </td>
-  </tr>
-</table>
-
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=stalzkie&theme=react-dark&hide_border=true" 
   alt="GitHub Activity Graph"
