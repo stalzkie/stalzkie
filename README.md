@@ -82,7 +82,11 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stalzkie&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false&card_width=500)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalzkie&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false&card_width=500"
+  />
+</p>
 
 ---
 
@@ -100,10 +104,22 @@
 
 ### GitHub Stats
 
-| | |
-|---|---|
-| ![](https://github-readme-stats.vercel.app/api?username=stalzkie&show_icons=true&theme=tokyonight&hide_border=true) | ![](https://streak-stats.demolab.com/?user=stalzkie&theme=tokyonight&hide_border=true) |
-
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=stalzkie&show_icons=true&theme=tokyonight&hide_border=true"
+        width="420"
+      />
+    </td>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com/?user=stalzkie&theme=tokyonight&hide_border=true"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=stalzkie&theme=react-dark&hide_border=true" 
