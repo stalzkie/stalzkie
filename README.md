@@ -82,9 +82,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalzkie&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false" style="max-width: 1000px; height: 250px;"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stalzkie&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false&card_width=500)
 
 ---
 
@@ -102,10 +100,10 @@
 
 ### GitHub Stats
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=stalzkie&show_icons=true&theme=tokyonight&hide_border=true" width="420" height="180" style="border: 2px solid white; border-radius: 10px;" />
-  <img src="https://streak-stats.demolab.com/?user=stalzkie&theme=tokyonight&hide_border=true" width="420" height="180" style="border: 2px solid white; border-radius: 10px;" />
-</p>
+| | |
+|---|---|
+| ![](https://github-readme-stats.vercel.app/api?username=stalzkie&show_icons=true&theme=tokyonight&hide_border=true) | ![](https://streak-stats.demolab.com/?user=stalzkie&theme=tokyonight&hide_border=true) |
+
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=stalzkie&theme=react-dark&hide_border=true" 
