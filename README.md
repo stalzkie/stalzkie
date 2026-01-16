@@ -82,11 +82,22 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalzkie&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false&card_width=500"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=stalzkie&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+        width="420"
+      />
+    </td>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com/?user=stalzkie&theme=tokyonight&hide_border=true&cache_seconds=1800"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
